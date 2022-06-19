@@ -1,0 +1,30 @@
+{
+    "name": "@sutext/socket",
+    "version": "1.0.1",
+    "description": "custom websocket libray",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo nothing & exit 1"
+    },
+    "files": [
+        "index.d.ts",
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/sutext/web-socket.git"
+    },
+    "keywords": [
+        "socket",
+        "websocket"
+    ],
+    "author": "supertext@icloud.com",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sutext/web-socket/issues"
+    },
+    "homepage": "https://github.com/sutext/web-socket#readme",
+    "dependencies": {
+        "@sutext/emitter": "^1.0.3"
+    }
+}
